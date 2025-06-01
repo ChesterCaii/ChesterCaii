@@ -39,10 +39,9 @@
 ---
 
 ## 📫 Contact
-- 🌐 [chesterai.notion.site](https://chesterai.notion.site)  
-- 📧 chester.cai.dev@gmail.com  
-- 🐦 [@chesterCai_](https://twitter.com/chesterCai_)  
-- 💼 [LinkedIn](https://linkedin.com/in/chester-cai)
+- 📧 chestercai5@gmail.com  
+- 🐦 [@ChesterCaii](https://x.com/ChesterCaii)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/chestercaii/)
 
 ---
 
