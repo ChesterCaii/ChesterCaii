@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Chester Cai
 
-<!--
-**ChesterCaii/ChesterCaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 2nd-year CS student at Folsom Lake College, preparing to transfer to UC Berkeley.  
+🧠 Currently researching AI, robotics, and world models at UC Davis' LARA Lab through MURSP.  
+🚀 Also exploring large language model reasoning and prompting via Algoverse AI Research.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Current Projects
+- 🤖 **Simulation-based World Models** for real-to-sim transfer in robotics (UC Davis LARA Lab)
+- 🧠 **Latent Space Reasoning** and Chain-of-Thought prompting (Algoverse)
+- 🎮 Building games like **Asteroids** in Python + Pygame
+- 🛍️ Previously ran businesses in reselling, dropshipping, and affiliate marketing
+
+---
+
+## 📚 Learning Goals
+- Systems & backend engineering (Go, Python, C++)
+- Applied ML & deep learning theory
+- Quantitative finance, statistics, and math foundations
+
+---
+
+## 🏁 Goals
+- 🔬 Publish impactful research in AI or robotics
+- 💼 Intern at top tech or quant firms (OpenAI, Jane Street, etc.)
+- 🎯 Launch or join a startup aligned with AI or ethical tech
+
+---
+
+## 🧰 Tech Stack
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python) 
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+
+---
+
+## 📫 Contact
+- 🌐 [chesterai.notion.site](https://chesterai.notion.site)  
+- 📧 chester.cai.dev@gmail.com  
+- 🐦 [@chesterCai_](https://twitter.com/chesterCai_)  
+- 💼 [LinkedIn](https://linkedin.com/in/chester-cai)
+
+---
+
+_“Build fast. Think deeply. Stay curious.”_
