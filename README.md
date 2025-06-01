@@ -1,34 +1,24 @@
-# 👋 Hi, I'm Chester Cai
+# 👋 Hey, I'm Chester
 
-🎓 I'm a 2nd-year CS student at Folsom Lake College, preparing to transfer to UC Berkeley.  
-🧠 Currently researching AI, robotics, and world models at UC Davis' LARA Lab through MURSP.  
-🚀 Also exploring large language model reasoning and prompting via Algoverse AI Research.
-
----
-
-## 🔧 Current Projects
-- 🤖 **Simulation-based World Models** for real-to-sim transfer in robotics (UC Davis LARA Lab)
-- 🧠 **Latent Space Reasoning** and Chain-of-Thought prompting (Algoverse)
-- 🎮 Building games like **Asteroids** in Python + Pygame
-- 🛍️ Previously ran businesses in reselling, dropshipping, and affiliate marketing
+I'm a CS student at Folsom Lake College, planning to transfer to UC Berkeley.  
+Right now, I'm doing research at UC Davis (world models, robotics, that kind of stuff)  
+and playing around with LLMs and prompt engineering over at Algoverse AI.
 
 ---
 
-## 📚 Learning Goals
-- Systems & backend engineering (Go, Python, C++)
-- Applied ML & deep learning theory
-- Quantitative finance, statistics, and math foundations
+## 🛠️ Stuff I'm Working On
+- 🤖 Sim-to-real world modeling for robotics (UC Davis LARA Lab)
+- 🧠 Playing with LLM reasoning in latent space (Algoverse)
+---
+
+## 📚 Things I'm Learning
+- Go, C++, and systems/backend engineering
+- Deep learning theory and how models actually think
+- Quant finance and all the math behind it
 
 ---
 
-## 🏁 Goals
-- 🔬 Publish impactful research in AI or robotics
-- 💼 Intern at top tech or quant firms (OpenAI, Jane Street, etc.)
-- 🎯 Launch or join a startup aligned with AI or ethical tech
-
----
-
-## 🧰 Tech Stack
+## 🧰 Tools I Use
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python) 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
@@ -38,7 +28,7 @@
 
 ---
 
-## 📫 Contact
+## 📫 Find Me Here
 - 📧 chestercai5@gmail.com  
 - 🐦 [@ChesterCaii](https://x.com/ChesterCaii)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/chestercaii/)
