@@ -32,7 +32,3 @@ and playing around with LLMs and prompt engineering over at Algoverse AI.
 - 📧 chestercai5@gmail.com  
 - 🐦 [@ChesterCaii](https://x.com/ChesterCaii)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/chestercaii/)
-
----
-
-_“Build fast. Think deeply. Stay curious.”_
