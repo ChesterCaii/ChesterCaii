@@ -9,7 +9,7 @@ I'm a CS student at Folsom Lake College, planning to transfer to UC Berkeley.
 - 🧠 LLM reasoning in latent space (Algoverse)
 ---
 
-## 📚 Things I'm Currently Learning
+## 📚 Currently Learning
 - Go, C++, and systems/backend engineering
 - Deep learning theory and how models actually think
 - Quant finance and all the math behind it
