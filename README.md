@@ -5,8 +5,8 @@ I'm a CS student at Folsom Lake College, planning to transfer to UC Berkeley.
 ---
 
 ## 🛠️ Currently I'm Working On
-- 🤖 Sim-to-real world modeling for robotics (UC Davis LARA Lab)
-- 🧠 LLM reasoning in latent space (Algoverse)
+- 🤖 Sim-to-real world modeling for robotics @ UC Davis LARA Lab
+- 🧠 AI Research @ Algoverse
 ---
 
 ## 📚 Currently Learning
